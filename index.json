@@ -1,0 +1,50 @@
+{
+  "libraries": [
+    {
+      "name": "ReadWN",
+      "ver": "1.0.11"
+    }
+  ],
+  "scripts": [
+    {
+      "name": "ReadWN",
+      "fileName": "ReadWN",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/ReadWN.png",
+      "id": 8900091,
+      "lang": "en",
+      "ver": "1.1.4",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "FanNovel",
+      "fileName": "FanNovel",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FanNovel.png",
+      "id": 8900096,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "FansMTL",
+      "fileName": "FansMTL",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/FansMTL.png",
+      "id": 8900098,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "LtNovel",
+      "fileName": "LtNovel",
+      "imageURL": "https://raw.githubusercontent.com/LordGrindelwald/ReadwnFamilia/master/icons/LTNovel.png",
+      "id": 8900090,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ]
+}
