@@ -90,7 +90,7 @@ local GENRES = {
 
 return Require("ReadWN")("https://www.fannovels.com", {
     id = 8900096,
-    name = "FanNovel",
+    name = "FanNovels",
     shrinkURLNovel = "^.-fannovels%.com",
     hasCloudFlare = true,
 
